@@ -1,0 +1,8 @@
+README.rst
+setup.cfg
+setup.py
+bayesian.egg-info/PKG-INFO
+bayesian.egg-info/SOURCES.txt
+bayesian.egg-info/dependency_links.txt
+bayesian.egg-info/not-zip-safe
+bayesian.egg-info/top_level.txt
